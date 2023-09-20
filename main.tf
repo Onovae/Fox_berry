@@ -7,6 +7,7 @@ provider "aws" {
   secret_key = "ZEHIzFaus10Nrsln8IEVyqvanQpeSVxhUm6jPYjp"
 }
 
+#create a Linus instance
 #resource "aws_instance" "maureen-tf-server" {
 # instance_type = "t2.micro"
 #  tags = {
