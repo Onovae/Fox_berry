@@ -3,8 +3,8 @@
 #}
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA6EGWBZSSO6XA3VXJ"
-  secret_key = "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"
+  access_key = "🤳"
+  secret_key = "💅👩‍💻"
 }
 
 #create a Linus instance
