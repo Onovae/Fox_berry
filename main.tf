@@ -5,8 +5,8 @@ provider "aws" {
   profile = "maureenc5"
 }
 
+#create a Linus instance
 
-# create a Linux instance
 #resource "aws_instance" "maureen-tf-server" {
 # instance_type = "t2.micro"
 #  tags = {
